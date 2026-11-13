@@ -202,4 +202,4 @@ This repository serves as the official landing page for Absentis. The software i
 **Get the most recent version of Absentis today!**
 
 ---
-**Last updated:** 2026-11-13 09:03:55 UTC
+**Last updated:** 2026-11-13 17:29:10 UTC
